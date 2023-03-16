@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FactorySounds": {
+      "commandName": "Project",
+      "commandLineArgs": "Recording.m4a"
+    }
+  }
+}
